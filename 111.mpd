@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:327
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:8
+#EXTINF:7.999978,
+https://1059-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:7.999956,
+https://1059-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:7.999978,
+https://1059-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:7.999967,
+https://1059-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:7.999967,
+https://1059-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:7.999967,
+https://1059-vos.dtvott.com/DASH/manifest.mpd
